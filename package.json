@@ -1,0 +1,15 @@
+{
+  "name": "js_platforms_import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@leavethepast/JS_platforms": "npm:@leavethepast/js_platforms@^1.0.1"
+  }
+}
